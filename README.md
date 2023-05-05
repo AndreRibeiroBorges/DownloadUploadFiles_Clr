@@ -13,3 +13,5 @@ Depois de criar a classe CLR, foi só ajustar um codigo que iria executar nossa 
 Espero que seja útil. 
 
 Até mais. 
+
+Ahhh, não esquece de atualizar os caminhos dos arquivos. :) 
